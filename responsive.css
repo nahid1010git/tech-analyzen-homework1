@@ -1,0 +1,607 @@
+
+
+/*=========================================================================
+============================================================================
+
+bigger then tablet start
+======================*/
+
+
+@media screen and (max-width:920px){
+
+    /* header responsive start */
+   
+    .inner_header_container nav ul li{
+       display: none;
+   }
+   
+   .inner_header_container nav ul .bars{
+       display: block;
+   }
+   
+   /* header responsive end */
+   
+   
+   
+    /* about section responsive start */
+
+    /* about section inner left box start */
+    #about_section .inner_about_section .left_about_box{
+        flex-basis: 49%;
+    }
+
+    .inner_about_section .left_about_box .left_about_image_parent{
+        justify-content: center;
+    }
+
+  
+.left_about_box .left_about_inner_pera{
+   
+    font-size: 14px;
+}
+
+.left_about_box .left_about_inner_span{
+font-size: 15px;
+}
+
+    /* about section inner left box end */
+
+
+
+
+    /* about section inner right box start */
+
+
+    #about_section .inner_about_section .right_about_box{
+        flex-basis: 49%;
+    }
+
+
+    .right_about_box .right_inner_about_pera{
+        font-size: 14px;
+        letter-spacing: 2px;
+       
+    }
+
+
+    .right_about_box .right_inner_about_span{
+        font-size: 15px;
+    }
+
+    .right_about_box .inner_right_about_box{
+    
+        margin-bottom: 9px;
+        height: 50px;
+    }
+
+    .right_about_box .inner_right_about_box .process{
+        padding: 4px 4px;
+    }
+
+    .right_about_box .inner_right_about_box .process h4{
+        font-size: 14px;
+        font-weight: 400;
+        text-transform: uppercase;
+    }
+    
+    
+    .right_about_box .inner_right_about_box .process span{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    
+
+    .right_about_box .inner_right_about_box .empty{
+        height: 15px;
+        width: 100%;
+        background-color: rgba(177, 28, 28, 0.575);
+        position: relative;
+    
+    }
+
+    /* about section inner right box end */
+
+
+
+
+    /* about section responsive end */
+
+
+
+
+
+    /* service section responsive start form here */
+
+
+
+    
+
+
+
+
+
+
+
+
+.inner_service_common_logo_parent{
+    height: 55px;
+    width: 55px;
+
+    
+}
+
+.inner_service_common_logo_parent i{
+    font-size: 20px;
+ 
+    
+}
+
+.inner_service_card h4{
+font-size: 15px;
+}
+
+.inner_service_card p{
+    font-size: 15px;
+    line-height: 28px;
+
+}
+
+
+
+    /* service section responsive end form here */
+
+   
+
+
+
+    /* portfolio section responsive start form here */
+
+    .portfolio_project_box .common_portfolio_image_parent{
+        height: 140px;
+        
+    }
+
+
+    .portfolio_project_box_footer_content .portfolio_project_box_footer_content_peragraph{
+        font-size: 12px;
+    }
+    
+    
+    .portfolio_project_box_footer_content .portfolio_project_box_footer_content_span{
+        font-size: 14px;
+       
+    }
+    
+
+
+    /* portfolio section responsive end form here */
+
+   
+   
+   
+   
+   }
+   
+
+
+
+
+/*====================
+
+bigger then tablet end
+======================*/
+
+
+
+
+
+
+
+/*=========================================================================
+============================================================================
+|Tablet device start
+==========================*/
+
+@media screen and (max-width:750px){
+
+    /* header responsive start */
+
+    .inner_header_container nav ul li{
+        display: none;
+    }
+
+    .inner_header_container nav ul.bars{
+        display: block;
+    }
+    
+    /* header responsive end */
+
+
+
+    /* about section responsive start */
+
+    #about_section .inner_about_section{
+        flex-direction: column;
+        justify-content: space-between;
+        row-gap: 50px;
+    
+    }
+
+    /* about section inner left box start */
+    #about_section .inner_about_section .left_about_box{
+        flex-basis: 98%;
+    }
+
+    .inner_about_section .left_about_box .left_about_image_parent{
+        justify-content: center;
+    }
+
+  
+.left_about_box .left_about_inner_pera{
+    text-align: center;
+    font-size: 13px;
+}
+
+.left_about_box .left_about_inner_span{
+font-size: 14px;
+}
+
+    /* about section inner left box end */
+
+
+
+
+    /* about section inner right box start */
+
+
+    #about_section .inner_about_section .right_about_box{
+        flex-basis: 98%;
+    }
+
+
+    .right_about_box .right_inner_about_pera{
+        font-size: 13px;
+        letter-spacing: 2px;
+        text-align: center;
+    }
+
+
+    .right_about_box .right_inner_about_span{
+        font-size: 14px;
+    }
+
+    .right_about_box .inner_right_about_box{
+    
+        margin-bottom: 10px;
+        height: 30px;
+    }
+
+    .right_about_box .inner_right_about_box .process{
+        padding: 3px 3px;
+    }
+
+    .right_about_box .inner_right_about_box .process h4{
+        font-size: 13px;
+        font-weight: 400;
+        text-transform: uppercase;
+    }
+    
+    
+    .right_about_box .inner_right_about_box .process span{
+        font-size: 13px;
+        font-weight: 400;
+    }
+    
+
+    .right_about_box .inner_right_about_box .empty{
+        height: 14px;
+        width: 100%;
+        background-color: rgba(177, 28, 28, 0.575);
+        position: relative;
+    
+    }
+
+    /* about section inner right box end */
+
+
+
+
+    /* about section responsive end */
+
+
+
+
+    /* service section responsive start from here */
+
+    .inner_service_container .inner_service_card{
+        flex-basis: 45%;
+    
+    
+    
+    }
+
+
+    .inner_service_common_logo_parent{
+        height: 50px;
+        width: 50px;
+    
+        
+    }
+    
+    .inner_service_common_logo_parent i{
+        font-size: 18px;
+       
+        
+    }
+    
+    .inner_service_card h4{
+    font-size: 14px;
+    }
+    
+    .inner_service_card p{
+        font-size: 14px;
+        line-height: 26px;
+    
+    }
+    
+    
+
+       
+       
+
+
+
+
+    /* service section responsive end from here */
+
+
+     /* portfolio section responsive start form here */
+
+
+     .portfolio_inner_container .portfolio_project_box{
+        width: 48%;
+        
+    
+       
+    }
+
+
+
+
+    .portfolio_project_box .common_portfolio_image_parent{
+        height: 130px;
+        
+    }
+
+
+    
+
+
+    /* portfolio section responsive end form here */
+
+   
+   
+
+
+}
+
+
+/*=========================
+|Tablet device end
+==========================*/
+
+
+
+
+/*===========================================================================
+============================================================================
+|mobile device start
+==========================*/
+
+
+@media screen and (max-width:350px){
+
+
+
+    /*==============================
+    about section responsive start
+    ============================== */
+
+
+
+
+  
+    .left_about_box .left_about_inner_pera{
+        text-align: center;
+        font-size: 12px;
+    }
+    
+    .left_about_box .left_about_inner_span{
+    font-size: 13px;
+    }
+    
+        /* about section inner left box end */
+    
+    
+    
+    
+        /* about section inner right box start */
+    
+    
+    
+        .right_about_box .right_inner_about_pera{
+            font-size: 12px;
+            letter-spacing: 2px;
+            text-align: center;
+        }
+    
+    
+        .right_about_box .right_inner_about_span{
+            font-size: 13px;
+        }
+    
+        .right_about_box .inner_right_about_box{
+        
+            margin-bottom: 11px;
+            height: 25px;
+        }
+    
+        .right_about_box .inner_right_about_box .process{
+            padding: 2px 2px;
+        }
+    
+        .right_about_box .inner_right_about_box .process h4{
+            font-size: 12px;
+            font-weight: 400;
+            text-transform: uppercase;
+        }
+        
+        
+        .right_about_box .inner_right_about_box .process span{
+            font-size: 12px;
+            font-weight: 400;
+        }
+        
+    
+        .right_about_box .inner_right_about_box .empty{
+            height: 13px;
+            width: 100%;
+            background-color: rgba(177, 28, 28, 0.575);
+            position: relative;
+        
+        }
+    
+        /* about section inner right box end */
+    
+    
+
+
+
+       /*==============================
+    about section responsive end
+    ============================== */
+
+
+
+
+    
+        /* service section responsive start from here */
+
+
+
+        .inner_service_container .inner_service_card{
+            flex-basis: 100%;
+    border-bottom-left-radius: 0px;
+        
+        
+        
+        }
+
+
+
+        
+    
+    
+        .inner_service_common_logo_parent{
+            height: 50px;
+            width: 50px;
+        
+            
+        }
+        
+        .inner_service_common_logo_parent i{
+            font-size: 18px;
+           
+            
+        }
+        
+        .inner_service_card h4{
+        font-size: 13px;
+        }
+        
+        .inner_service_card p{
+            font-size: 13px;
+            line-height: 26px;
+        
+        }
+        
+
+
+
+        /* service section responsive end from here */
+
+
+
+
+
+
+
+     /* portfolio section responsive start form here */
+
+
+     .portfolio_inner_container .portfolio_project_box{
+        width: 100%;
+        
+        border-bottom-left-radius: 0px;
+        border-top-right-radius: 0px;
+       
+    }
+
+
+
+
+    .portfolio_project_box .common_portfolio_image_parent{
+        height: 150px;
+        
+    }
+
+
+    
+
+
+    /* portfolio section responsive end form here */
+
+   
+   
+
+    
+/* footer section responsive start from here */
+
+.inner_footer_content_title{
+
+    font-size: 28px;
+}
+
+.inner_footer_content_pera{
+    font-size: 10px;
+}
+
+.inner_footer_section ul li{
+    padding: 5px 5px;
+}
+
+
+
+
+
+
+
+
+/* footer section responsive end from here */
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+/*=========================
+|mobile device end
+==========================*/
