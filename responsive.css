@@ -154,6 +154,64 @@ font-size: 15px;
 
 
 
+    /* blog section responsive start from here */
+
+
+
+
+    .inner_blog_main_image_parent{
+     
+       justify-content: center;
+        column-gap: 15px;
+        row-gap: 15px;
+       
+    }
+
+
+
+    .inner_blog_common_image_parent{
+        flex-basis: 340px;
+          height: 400px;
+      
+          
+      }
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* blog section responsive end from here */
+
+
+
+
     /* portfolio section responsive start form here */
 
     .portfolio_project_box .common_portfolio_image_parent{
@@ -355,6 +413,88 @@ font-size: 14px;
     /* service section responsive end from here */
 
 
+
+
+
+
+
+    /* blog section responsive start from here */
+
+
+
+
+    .inner_blog_main_image_parent{
+     
+        justify-content: center;
+         column-gap: 10px;
+         row-gap: 10px;
+        
+     }
+ 
+ 
+ 
+     .inner_blog_common_image_parent{
+         flex-basis: 320px;
+           height: 400px;
+       
+           
+       }
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     /* blog section responsive end from here */
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
      /* portfolio section responsive start form here */
 
 
@@ -536,6 +676,82 @@ font-size: 14px;
 
 
 
+
+
+    /* blog section responsive start from here */
+
+
+
+
+ 
+ 
+ 
+     .inner_blog_common_image_parent{
+         flex-basis: 1000px;
+           height: 400px;
+       
+           
+       }
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     /* blog section responsive end from here */
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
      /* portfolio section responsive start form here */
 
 
@@ -563,6 +779,11 @@ font-size: 14px;
 
    
    
+
+
+
+
+
 
     
 /* footer section responsive start from here */
